@@ -1,0 +1,7 @@
+{
+  "appId": "com.ribbon.reader",
+  "appName": "Ribbon",
+  "webDir": "www",
+  "backgroundColor": "#ECE8E1",
+  "server": { "androidScheme": "https" }
+}
